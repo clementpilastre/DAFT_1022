@@ -2,7 +2,7 @@
 
 # Lab | Functional programming
 
-## Introduction
+## Introduction :)
 
 Functional programming is a programming paradigm where programs are constructed by applying and composing functions. Let's practice on this approach!
 
